@@ -1,4 +1,3 @@
-```markdown
 # Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks
 
 This repository contains the implementation of **Dynamic Spatio-Temporal Pruning for Efficient Spiking Neural Networks** as described in the paper:  
